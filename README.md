@@ -122,13 +122,38 @@ Após fazer esses ajustes o dashboard está praticamente pronto, algo que pode o
 - Ícone do GitHub
 - Ícone de clique
 - Palavra "Nível"
+- Wallpaper
 
 **Máscara:** A máscara é uma imagem de apoio que faz esse efeito de foto circular na foto de perfil. Essa foto de perfil possui 3 itens: A foto propriamente dita, na primeira camada (fundo), a máscara por cima e por fim, o círculo azul.
 **Ícone do GitHub:** O ícone do GitHub é o usado na parte inferior do dashboard, inclusive, se você não tem um, pode apagar toda essa parte.
 **Ícone de clique:** Toda região onde o visualizador pode clicar é marcada com um ícone de clique.
-**Palavra "Nível":** No gráfico de *"Progressão Profissional/Acadêmica"* o eixo tem um nome diferente de nível e se alterá-lo, alteraria a legenda do gráfico tamb;em, o que eu não gostaria, como não achei uma forma melhor para fazer isso, colei uma imagem com a palavra que eu gostaria por cima.  
+**Palavra "Nível":** No gráfico de *"Progressão Profissional/Acadêmica"* o eixo tem um nome diferente de nível e se alterá-lo, alteraria a legenda do gráfico tamb;em, o que eu não gostaria, como não achei uma forma melhor para fazer isso, colei uma imagem com a palavra que eu gostaria por cima.
+**Wallpaper:** No fundo do dashboard existe um papel de parede.
 
 Lembrando, essas imagens podem ou não corromper, caso ocorra isso, é só fazer um novo upload dessas imagens, você pode usar a pasta `Pack` para baixar essas imagens e fazer e inseri-las no dashboard. 
+
+## Gráficos
+
+#### Tela 1
+
+Na primeira tela do dashboard aparece um cabeçário com nome, cargo, foto, informações de contato, sites cadastrados e o objetivo profissional.
+
+Embaixa há 2 gráficos, o `Experiência Profissional` e `Experiência Acadêmica`, trazendo o seu histórico, a direita deles tem o gráfico `Progressão Profissional/Acadêmica`, o objetivo desse gráfico é em um único gráfico mostrar todos os inícios de novos cargos com os inícios de novos cursos, sendo que os cursos são vistos em um gráfico de linhas acumuladas, já que os cursos você acumula consigo, mas os cargos você sempre possui um por vez. Esses níveis eu defini de maneira muito simplório, os valores deles em si não importam, o objetivo deste gráfico é pegar as informações do `Experiência Profissional` e `Experiência Acadêmica` e ilustrar isso em uma espécie de linha do tempo, ainda assim, você pode alterar esses parâmetos em `Validação de Dados`, lá na planilha.
+
+O gráfico de mapas mostra os locais onde você já atuou, ele sempre foco a visualização nos dados, então se você tem dados em estados diferentes, ele terá uma visibilidade entre estados, assim como outros distâncias.
+
+A tabela do **GitHub** é sua lista de projetos.
+
+Na `Experiência Profissional` existe um botão, esse botão é o `VER DETALHES`, ele serve para ver detalhes de cada experiência profissional e outras informações, em outra tela.
+
+#### Tela 2
+
+A tela 2 tem um breve cabeçário, de diferente ele traz as informações que você escreveu no seu *"Sobre"*, além disso, existe uma caixa de seleção chamada `Selecione um cargo`, essa tela mostrará as informações detalhadas dos cargos, mas um cargo por vez, conforme selecionado nesta caixa.
+
+O campo de `Experiência Profissional` aqui trará todas as informações da tela 1 + as `Atribuições` e `Realizações`.
+
+Para voltar para tela 1 é só clicar no botão `VOLTAR`, em cima da caixa de seleção.
+
 
 ## FIM!
 
