@@ -2,14 +2,14 @@
 
 Uma versão do tradicional currículo reformulado no **DataStudio**. Este modelo é customizável, podendo ser ajustado a profissionais de diferentes áreas de atuação, contudo, voltado mais para áreas de tecnologia, trazendo como diferencial um import automático de projetos do **GitHub**.
 
+![Currículo](https://user-images.githubusercontent.com/126538842/225218532-2d2eeb2e-86f7-4a93-bc0c-a69cf3a98c5b.gif)
+
+***Tanto a planilha quanto o dashboard estão em modo de leitura, apenas, mas vocês podem fazer uma cópia e editar.***
+
 ##### Biblioteca de Templates 📚
 📈|[Planilha](https://docs.google.com/spreadsheets/d/1JD_oHDgjpfB6w9fQFX4X7ALmR2_-_JCKzj5dpbS1_ko/edit?usp=sharing)
 📊|[Dashboard](https://lookerstudio.google.com/reporting/c7610532-a8fd-471c-a580-3f57cc24a647)
 🎨|[Pack](https://drive.google.com/drive/folders/1z7Frd8cGADocrQMLSmYlRWiauJC1-CLD?usp=sharing)
-
-![Currículo](https://user-images.githubusercontent.com/126538842/225218532-2d2eeb2e-86f7-4a93-bc0c-a69cf3a98c5b.gif)
-
-***Tanto a planilha quanto o dashboard estão em modo de leitura, apenas, mas vocês podem fazer uma cópia e editar.***
 
 ## Contexto
 
